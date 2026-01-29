@@ -1,1 +1,1 @@
-rootProject.name = "kspigot-template"
+rootProject.name = "kspigot-plugin-template"
