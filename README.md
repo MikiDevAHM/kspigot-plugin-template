@@ -2,7 +2,7 @@
 
 A modern **Kotlin-first** template for developing **Paper / Purpur** plugins using:
 
-- Kotlin **2.0.0**
+- Kotlin **2.2.0**
 - KSpigot
 - Adventure (MiniMessage)
 - MySQL with HikariCP
