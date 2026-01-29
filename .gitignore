@@ -1,0 +1,65 @@
+# =========================
+# Gradle
+# =========================
+.gradle/
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# =========================
+# Kotlin / Java
+# =========================
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# =========================
+# IDEs
+# =========================
+
+# IntelliJ / JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Minecraft / Runtime
+# =========================
+logs/
+plugins/
+world/
+world_nether/
+world_the_end/
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+config.yml
+secrets.yml
+
+# =========================
+# Temporary
+# =========================
+tmp/
+temp/
+*.swp
+*.swo
