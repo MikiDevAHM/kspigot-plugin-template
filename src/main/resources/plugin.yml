@@ -1,0 +1,5 @@
+name: KSpigotTemplate
+version: 1.0.0
+main: me.template.myplugin.MyPlugin
+api-version: '1.21'
+author: Template
